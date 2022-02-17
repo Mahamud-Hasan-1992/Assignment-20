@@ -1,0 +1,19 @@
+.navbar img{
+    width: 40px;
+;
+}
+.container{
+    width: 70% !important;
+    margin:0 auto;
+    max-width: 1400px;
+}
+.carousel img{
+    width: 100% !important;
+    height: 400px;
+}
+.alert {
+    padding: 5px 20px;
+}
+.progress{
+    margin-top: 10px;
+}
